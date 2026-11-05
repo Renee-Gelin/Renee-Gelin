@@ -61,10 +61,10 @@ Business Architect · Solution Architect · Systems Architect · Transformation 
 
 ## Toolkit
 
-**Platforms:** ServiceNow (CSDM, CMDB, HRSD, ITSM, SPM) · Salesforce · Oracle Financials · Okta · HubSpot · SharePoint
-**Data & reporting:** SQL · Data warehousing · Data mapping & conversion · Business Objects · Cognos · Crystal Reports
-**Delivery:** Agile / SAFe · Azure DevOps · Jira · Smartsheet · UAT governance · PMO
-**People & change:** Executive facilitation · OCM · Training · Stakeholder & vendor management
+**Platforms:** ServiceNow (ITSM, HRSD, SPM, ITAM, CMDB, CSDM) · Salesforce · Oracle Financials · Okta · HubSpot · SharePoint
+**Data & reporting:** SQL · Data warehousing · Data mapping & conversion · Business Objects · Cognos · Power BI
+**Delivery:** Agile / SAFe · Azure DevOps · Jira · Smartsheet · UAT governance · PMO · Program Management
+**People & Change:** Executive Facilitation · OCM · Training · Stakeholder & Vendor Management
 
 ---
 
@@ -72,4 +72,4 @@ Business Architect · Solution Architect · Systems Architect · Transformation 
 
 Founder and President of **Saving Our Sisters (SOS), Inc.**, a national all-volunteer 501(c)(3), since 2011.
 
-📫 **The best way to reach me is [LinkedIn](https://www.linkedin.com/in/renee-g-8542993) or email at rast2005_1@yahoo.com.**
+📫 **The best way to reach me is [LinkedIn](https://www.linkedin.com/in/renee-g-8542993) or email at architecturesolutionz@gmail.com.**
