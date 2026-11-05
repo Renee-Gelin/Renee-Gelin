@@ -7,7 +7,7 @@ I design and deliver business solutions, system integrations, and data for finan
 📍 Tampa, Florida · Open to remote and hybrid roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renee-g-8542993)
-[![Email](https://img.shields.io/badge/Email-rast2005__1%40yahoo.com-0D6764?style=flat&logo=maildotru&logoColor=white)](mailto:rast2005_1@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-architecturesolutionzinc%40gmail.com-0D6764?style=flat&logo=maildotru&logoColor=white)](mailto:rast2005_1@yahoo.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_case_studies-14212B?style=flat)](https://claude.ai/artifact/7zE1xJgxDgrjzNQ25QYCmy)
 
 ---
