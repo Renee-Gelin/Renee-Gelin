@@ -14,7 +14,7 @@ I design and deliver business solutions, system integrations, and data for finan
 
 ## Roles I'm pursuing
 
-Business Architect · Solution Architect · Systems Architect · Transformation Lead · Process & Systems Analyst
+Business Architect · Solution Architect · Systems Architect · Transformation Lead · Process & Systems Analyst · Implementation Consultant
 
 ## How I work: strategy to go-live
 
