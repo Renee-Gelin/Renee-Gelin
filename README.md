@@ -20,11 +20,11 @@ Business Architect · Solution Architect · Systems Architect · Transformation 
 
 | Stage | What I deliver |
 |---|---|
-| **Strategy & roadmap** | Executive facilitation, multi-year roadmaps, MVP scope, M&A due diligence |
-| **Architecture & integration** | Systems landscapes, data models, data flows, APIs, CMDB and ERP interfaces |
-| **Process & requirements** | As-is / to-be process design, BRDs, user stories, acceptance criteria, traceability |
-| **UAT & cutover** | UAT models and governance, go/no-go sign-off, cutover orchestration, hypercare |
-| **OCM & training** | Change frameworks, communications, training materials, knowledge transfer |
+| **Strategy & Roadmap** | Executive facilitation, multi-year roadmaps, MVP scope, M&A due diligence |
+| **Architecture & Integration Solutions** | Systems landscapes, data models, data flows, APIs, CMDB and ERP interfaces |
+| **Requirements & Implementation Plans** | As-is / to-be process design, BRDs, user stories, acceptance criteria, traceability |
+| **UAT & Operational Readiness** | UAT models and governance, go/no-go sign-off, cutover orchestration, hypercare |
+| **Organizational Change Management, UAT & Training** | Change frameworks, communications, training materials, knowledge transfer |
 
 ---
 
