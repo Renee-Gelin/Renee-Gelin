@@ -16,7 +16,7 @@ I design and deliver business solutions, system integrations, and data for finan
 
 Business Architect · Solution Architect · Systems Architect · Transformation Lead · Process & Systems Analyst · Implementation Consultant
 
-## How I work: strategy to go-live
+## How I work: strategy to go-live and everything in between
 
 | Stage | What I deliver |
 |---|---|
